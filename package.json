@@ -9,6 +9,8 @@
   "author": "sri su",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-   }
+    "dns": "^0.2.2",
+    "express": "^4.16.4",
+    "mongo": "^0.1.0"
+  }
 }
